@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/equal/equal.iml" filepath="$PROJECT_DIR$/equal/equal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/接口作业.iml" filepath="$PROJECT_DIR$/接口作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/点菜/点菜.iml" filepath="$PROJECT_DIR$/点菜/点菜.iml" />
+    </modules>
+  </component>
+</project>
